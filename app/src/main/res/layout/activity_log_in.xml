@@ -42,7 +42,7 @@
             android:layout_centerHorizontal="true"
             android:inputType="textEmailAddress"
             android:layout_marginTop="80dp"
-            android:hint="Username"
+            android:hint="Bui Vinh Thai"
             android:textSize="20sp"
             android:fontFamily="@font/poppins_regular"
             android:paddingLeft="30dp"
@@ -69,7 +69,7 @@
             android:ems="10"
             android:inputType="textPassword"
             android:layout_marginTop="10dp"
-            android:hint="Password"
+            android:hint="21115053120143"
             android:textSize="20sp"
             android:fontFamily="@font/poppins_regular"
             android:paddingLeft="30dp"/>
